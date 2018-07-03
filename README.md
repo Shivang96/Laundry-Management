@@ -1,1 +1,1 @@
-# Laundry-Management-
+# Laundry-Management : Its a Website based on collaboration of multiple laundry shops nearby SRM Institute Of Science and Technology embaded with Mail Tracking. Currently its only on localhost, code needs to be uploaded soon.
